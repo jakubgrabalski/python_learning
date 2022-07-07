@@ -25,3 +25,4 @@ print(full_name)
 
 
 #string concatenantion
+print(first_name + ' ' + last_name)

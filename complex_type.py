@@ -4,3 +4,4 @@ print(complex(5+2j))
 print(bin(5))
 #binary2int
 print(int('0b101', 2))
+
